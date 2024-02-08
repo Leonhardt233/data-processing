@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import numpy as np
 
 # dict() 函数用于创建一个字典数据:dic_data1
